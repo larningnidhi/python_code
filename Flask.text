@@ -1,0 +1,17 @@
+Flask
+===========
+
+- Template
+--- variables
+--- if condition
+--- for loop
+
+- Route / Controller / Page URL (py)
+--- Data passing
+
+1. Hello World
+2. Pass variable from router to template
+3. template - use if / else if / else ---- (eg. if Male - show Mr. else if Female - Show Ms.)
+4. template - use for loop ---- (eg. Select -> add dynamic options from 18 to 30)
+5. Form Submit - take data in python router and pass it to next page - show in div
+
